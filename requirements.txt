@@ -65,4 +65,4 @@ typing_extensions==4.9.0
 tzdata==2025.2
 urllib3==2.3.0
 watchdog==6.0.0
-inplace-abn @ file:///./cloth_try_on/Self-Correction-Human-Parsing/modules
+inplace-abn @ file:///mount/src//cloth_try_on/Self-Correction-Human-Parsing/modules
